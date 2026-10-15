@@ -1,0 +1,12 @@
+"""
+Project Demonstration
+Author: menaka93624-prog
+Description: A starter script to verify the project environment and run basic demonstrations.
+"""
+
+def main():
+    print("Welcome to Project Demonstration!")
+    # Add your core project logic here
+
+if __name__ == "__main__":
+    main()
